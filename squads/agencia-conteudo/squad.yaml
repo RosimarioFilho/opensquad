@@ -1,0 +1,22 @@
+squad:
+  code: "agencia-conteudo"
+  name: "Agência de Conteúdo Automatizada"
+  description: "Squad completo para pesquisa de público, planejamento de calendário, criação em múltiplos formatos, design visual, revisão e agendamento de posts."
+
+skills:
+  - web_search
+  - web_fetch
+  - apify
+  - canva
+  - image-creator
+  - image-ai-generator
+  - instagram-publisher
+  - template-designer
+
+data:
+  - pipeline/data/research-brief.md
+  - pipeline/data/domain-framework.md
+  - pipeline/data/quality-criteria.md
+  - pipeline/data/output-examples.md
+  - pipeline/data/anti-patterns.md
+  - pipeline/data/tone-of-voice.md

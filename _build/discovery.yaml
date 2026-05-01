@@ -1,0 +1,41 @@
+squad_code: "agencia-conteudo"
+purpose: "Entender público-alvo, criar perfil do cliente e calendário editorial mensal/semanal/anual, além de criar artes e vídeos em múltiplos formatos."
+domain: "content"
+
+company:
+  name: "Squad Maker"
+  tone: "Criativo, dinâmico, moderno e direto ao ponto. A comunicação é ágil, persuasiva e antenada nas tendências (trends) do mercado digital."
+  products: "Carrosséis estratégicos, Vídeos curtos (Reels, TikToks, Shorts), Stories engajadores, Edição de vídeos mais longos, Gestão e produção de conteúdo geral para redes sociais"
+
+language: "Português (Brasil)"
+
+context:
+  audience: "Clientes atuais, potenciais leads e público geral (jornada completa)"
+  platforms: "Instagram, YouTube, LinkedIn, Twitter/X, Blog, WhatsApp"
+  tone: "Adaptável (pesquisa o estilo de cada cliente antes da criação)"
+
+tools_needed:
+  - "apify"
+  - "canva"
+  - "image-creator"
+  - "image-ai-generator"
+  - "instagram-publisher"
+  - "template-designer"
+
+investigation:
+  enabled: false
+  profiles: []
+
+target_formats:
+  - "instagram-feed"
+  - "instagram-reels"
+  - "instagram-stories"
+  - "youtube-script"
+  - "youtube-shorts"
+  - "linkedin-post"
+  - "linkedin-article"
+  - "twitter-post"
+  - "twitter-thread"
+  - "blog-post"
+  - "blog-seo"
+  - "whatsapp-broadcast"

@@ -1,0 +1,17 @@
+id,name,role,path
+sofia-estrategista,Sofia Estrategista,Estrategista de Conteúdo,./agents/sofia-estrategista.agent.md
+iago-instagram,Iago Instagram,Criador Feed Instagram,./agents/iago-instagram.agent.md
+isis-instareels,Isis InstaReels,Roteirista de Reels,./agents/isis-instareels.agent.md
+igor-instastories,Igor InstaStories,Especialista em Stories,./agents/igor-instastories.agent.md
+yago-youtube,Yago YouTube,Roteirista YouTube,./agents/yago-youtube.agent.md
+yara-yshorts,Yara YShorts,Roteirista YT Shorts,./agents/yara-yshorts.agent.md
+luan-linkedin,Luan LinkedIn,Criador LinkedIn Post,./agents/luan-linkedin.agent.md
+lara-linkedin,Lara LinkedIn,Redatora Artigos LinkedIn,./agents/lara-linkedin.agent.md
+tiago-twitter,Tiago Twitter,Criador Twitter/X,./agents/tiago-twitter.agent.md
+taina-thread,Tainá Thread,Especialista Fios X,./agents/taina-thread.agent.md
+beto-blog,Beto Blog,Redator de Blog,./agents/beto-blog.agent.md
+bia-blogseo,Bia BlogSEO,Especialista em SEO,./agents/bia-blogseo.agent.md
+wagner-whatsapp,Wagner WhatsApp,Copywriter WhatsApp,./agents/wagner-whatsapp.agent.md
+daniel-designer,Daniel Designer,Criador de Artes e Visuais,./agents/daniel-designer.agent.md
+renata-revisao,Renata Revisão,Auditora de Qualidade,./agents/renata-revisao.agent.md
+paula-postadora,Paula Postadora,Agente de Distribuição,./agents/paula-postadora.agent.md

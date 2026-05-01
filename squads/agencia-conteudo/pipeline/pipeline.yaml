@@ -1,0 +1,31 @@
+pipeline:
+  checkpoints:
+    - step: 2
+      name: "Aprovar Calendario"
+    - step: 15
+      name: "Aprovar Textos"
+    - step: 17
+      name: "Aprovar Artes"
+    - step: 19
+      name: "Aprovacao Final"
+  steps:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
